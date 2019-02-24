@@ -1,4 +1,4 @@
-# pics
+# Flutterific
 
 A new Flutter project.
 
